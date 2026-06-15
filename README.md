@@ -2,6 +2,8 @@
 
 Frontend application for the UK Energy Mix Dashboard, built with Next.js and TypeScript.
 
+## Live Demo
+Check out the live application here: [https://energy-mix-frontend-hu5i.onrender.com](https://energy-mix-frontend-hu5i.onrender.com)
 
 ## Features
 
